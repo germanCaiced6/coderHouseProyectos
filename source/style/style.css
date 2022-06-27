@@ -337,6 +337,7 @@ h4 {
 
 .event__img {
     width: 300px;
+    border-radius: 15%;
 }
 
 .parrafo {
@@ -482,6 +483,7 @@ form {
         width: 500px;
     }
 }
+
 /* MEDIA QUERIES CONTACT #################################################################*/
 @media (min-width: 768px) {
     #wrapper__contact {
